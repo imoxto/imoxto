@@ -6,7 +6,7 @@
 - 📫 Find me on Discord, @Imoutoすき#5674.
 
 ## Projects I worked on:
-- (BUPD)[https://github.com/Devorein/BUPD]
+- [BUPD](https://github.com/Devorein/BUPD)
 ... more coming soon
 <!---
 xImouto/xImouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
