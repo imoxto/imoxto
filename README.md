@@ -5,8 +5,9 @@
 - 💞️ I’m looking to collaborate on any projects that will help me improve.
 - 📫 Find me on Discord, @Imoutoすき#5674.
 
-## Projects I worked on:
+## Projects I worked/am working on:
 - [BUPD](https://github.com/Devorein/BUPD)
+
 ... more coming soon
 <!---
 xImouto/xImouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
