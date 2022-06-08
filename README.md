@@ -1,12 +1,13 @@
 # About Me
 - 👋 Hi, I’m @xImouto.
-- 👀 I’m interested in becoming a backend developer.
+- 👀 Working towards being a fullstack developer.
 - 🌱 I’m currently learning Node.js, React, Typescript, Golang.
 - 💞️ I’m looking to collaborate on any projects that will help me improve.
 - 📫 Find me on Discord, @Imoutoすき#5674.
 
 ## Projects I worked/am working on:
 - [BUPD](https://github.com/Devorein/BUPD)
+- [reinforz](https://github.com/NLP-practitioners/reinforz)
 
 ... more coming soon
 <!---
