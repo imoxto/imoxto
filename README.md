@@ -1,16 +1,15 @@
-# About Me
-- 👋 Hi, I’m @xImouto.
-- 👀 Working towards being a fullstack developer.
-- 🌱 I’m currently learning Node.js, React, Typescript, Golang.
-- 💞️ I’m looking to collaborate on any projects that will help me improve.
-- 📫 Find me on Discord, @Imoutoすき#5674.
+### Hello there, I am Rafid 👋
 
-## Projects I worked/am working on:
-- [BUPD](https://github.com/Devorein/BUPD)
-- [reinforz](https://github.com/NLP-practitioners/reinforz)
+<h2 align="center">About Me</h2>
 
-... more coming soon
-<!---
-xImouto/xImouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I seek to achieve a career as a successful full stack software developer. Apart from working hard on fullstack web development, I am also brushing my skills in Artificial Intelligence and Natural Language Processing.
+
+- 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz), [BUPD](https://github.com/Devorein/BUPD)
+- 🌱 I’m currently learning ... Docker, React, Svelte, Matplotlib, Seaborn, Pandas, Numpy
+- 👯 I’m looking to collaborate on ... Any ambitious Web project or NLP/ML Project/Library
+- 💬 Ask me about ... Algorithms, Web Development, Games and Anime
+- ⚡ Fun fact: ... I'm 
+
+<h2 align="center">Current Knowledge</h2>
+
+**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. However, it doesn't mean I know everything about them, although I do have first hand experience and is comfortable using them.
