@@ -61,5 +61,24 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <hr>
 <!--END_SECTION:learn-->
 
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="xImouto :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=xImouto&show_icons=true&theme=dark"> </td>
+       <td><img alt="xImouto :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xImouto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+<details>
+
+<summary>:zap: Recent Github Activities</summary>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
