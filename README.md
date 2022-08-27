@@ -59,6 +59,38 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <hr>
 <!--END_SECTION:learn-->
 
+<h2 align="center">You can catch me at</h2>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/17934277/ximouto">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="xImouto's Stack Overflow Profile" height="30" width="30">
+  </a>
+  <a href="https://replit.com/@MOHAMMAD-RAFIDR">
+    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="xImouto's Repl.it Profile" height="30" width="30">
+  </a>
+  <a href="https://www.showwcase.com/imouto">
+    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="xImouto's Showwcase Profile" height="30" width="30"/>
+  </a>
+  <a href="https://wakatime.com/@rafid69">
+    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="xImouto's Wakatime Profile" height="30" width="30">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/20e1aae5-1e16-45a5-acac-8c968a05c070.svg" alt="xImouto's wakatime badge"/>
+</div>
+
+<h3 align="center"> Connect with Me at </h3>
+
+<p align="center">
+<a href="mailto:rafidhamid00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rafidhamid00@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Imouto%E3%81%99%E3%81%8D%235674-blue?style=flat&logo=discord"></a>
+<a href="https://twitter.com/Ryon099"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ryon099-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/imouto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-imouto-blue?style=flat&logo=linkedin"></a>
+</p>
+  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafid69&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="xImouto :: Wakatime Stats" /></p>
+
 <p align="center">
    <table>
       <tr>
