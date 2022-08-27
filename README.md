@@ -13,3 +13,5 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <h2 align="center">Current Knowledge</h2>
 
 **NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. However, it doesn't mean I know everything about them, although I do have first hand experience and is comfortable using them.
+
+<!--START_SECTION:learn-->
