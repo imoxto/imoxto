@@ -80,6 +80,16 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#126](https://github.com/NLP-practitioners/reinforz/pull/126) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+2. 💪 Opened PR [#120](https://github.com/NLP-practitioners/reinforz/pull/120) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+3. 💪 Opened PR [#119](https://github.com/NLP-practitioners/reinforz/pull/119) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+4. 🎉 Merged PR [#116](https://github.com/NLP-practitioners/reinforz/pull/116) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+5. 💪 Opened PR [#116](https://github.com/NLP-practitioners/reinforz/pull/116) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+6. 💪 Opened PR [#111](https://github.com/NLP-practitioners/reinforz/pull/111) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+7. 💪 Opened PR [#104](https://github.com/NLP-practitioners/reinforz/pull/104) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+8. 💪 Opened PR [#95](https://github.com/NLP-practitioners/reinforz/pull/95) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+9. 💪 Opened PR [#94](https://github.com/NLP-practitioners/reinforz/pull/94) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+10. 💪 Opened PR [#90](https://github.com/NLP-practitioners/reinforz/pull/90) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
 <!--END_SECTION:activity-->
 
 </details>
