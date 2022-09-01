@@ -81,6 +81,9 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <div align="center">
   <img src="https://wakatime.com/badge/user/20e1aae5-1e16-45a5-acac-8c968a05c070.svg" alt="xImouto's wakatime badge"/>
 </div>
+<div align="center">
+   <img src="https://stackoverflow.com/users/flair/17934277.png?theme=dark" alt="xImouto's Stackoverflow Badge"/>
+</div>
 
 <h3 align="center"> Connect with Me at </h3>
 
