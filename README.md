@@ -36,9 +36,6 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <div align="center">
   <img src="https://wakatime.com/badge/user/20e1aae5-1e16-45a5-acac-8c968a05c070.svg" alt="xImouto's wakatime badge"/>
 </div>
-<div align="center">
-   <img src="https://stackoverflow.com/users/flair/17934277.png?theme=dark" alt="xImouto's Stackoverflow Badge"/>
-</div>
 
 
 <h2 align="center">Current Knowledge</h2>
@@ -94,20 +91,26 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 
 <h2 align="center">Fun Statistics About Me</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafid69&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="xImouto :: Wakatime Stats" /></p>
-
-<p align="center">
-   <table>
-      <tr>
+<table align="center">
+     <tr>
        <th>Profile stats  </th>
-       <th>Language Contribution</th>
+       <td><img align="center" alt="xImouto :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=xImouto&show_icons=true&theme=dark"> </td>
      </tr>
       <tr>
-       <td><img alt="xImouto :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=xImouto&show_icons=true&theme=dark"> </td>
-       <td><img alt="xImouto :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xImouto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <th>Language Contribution</th>
+       <td><div align="center"> <img align="center" alt="xImouto :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xImouto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </div></td>
      </tr>
-   </table>
-</p>
+     <tr>
+       <th>Stackoverflow Badge</th>
+       <td><div align="center">
+   <img src="https://stackoverflow.com/users/flair/17934277.png?theme=dark" alt="xImouto's Stackoverflow Badge"/>
+</div></td>
+     </tr>
+     <tr>
+       <th>Wakatime stats</th>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafid69&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="xImouto :: Wakatime Stats" /></td>
+     </tr>
+</table>
 
 <details>
 
