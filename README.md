@@ -94,21 +94,21 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <table align="center">
      <tr>
        <th>Profile stats  </th>
-       <td><img align="center" alt="xImouto :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=xImouto&show_icons=true&theme=dark"> </td>
+       <td><img align="center" alt="imoxto :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imoxto&show_icons=true&theme=dark"> </td>
      </tr>
       <tr>
        <th>Language Contribution</th>
-       <td><div align="center"> <img align="center" alt="xImouto :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xImouto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </div></td>
+       <td><div align="center"> <img align="center" alt="imoxto :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoxto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </div></td>
      </tr>
      <tr>
        <th>Stackoverflow Badge</th>
        <td><div align="center">
-   <img src="https://stackoverflow.com/users/flair/17934277.png?theme=dark" alt="xImouto's Stackoverflow Badge"/>
+   <img src="https://stackoverflow.com/users/flair/17934277.png?theme=dark" alt="imoxto's Stackoverflow Badge"/>
 </div></td>
      </tr>
      <tr>
        <th>Wakatime stats</th>
-       <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafid69&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="xImouto :: Wakatime Stats" /></td>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafid69&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="imoxto :: Wakatime Stats" /></td>
      </tr>
 </table>
 
