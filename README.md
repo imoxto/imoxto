@@ -13,16 +13,25 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 
 <p align="center">
   <a href="https://stackoverflow.com/users/17934277/ximouto">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="xImouto's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="imoxto's Stack Overflow Profile" height="30" width="30">
   </a>
   <a href="https://replit.com/@MOHAMMAD-RAFIDR">
-    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="xImouto's Repl.it Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="imoxto's Repl.it Profile" height="30" width="30">
   </a>
   <a href="https://www.showwcase.com/imouto">
-    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="xImouto's Showwcase Profile" height="30" width="30"/>
+    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="imoxto's Showwcase Profile" height="30" width="30"/>
   </a>
   <a href="https://wakatime.com/@rafid69">
-    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="xImouto's Wakatime Profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="imoxto's Wakatime Profile" height="30" width="30">
+  </a>
+  <a href="https://peerlist.io/rafid">
+    <img src="https://pbs.twimg.com/profile_images/1501427040847011842/ebLQEugq_400x400.jpg" alt="imoxto's Peerlist Profile" height="30" width="30">
+  </a>
+  <a href="https://www.polywork.com/imto">
+    <img src="https://pbs.twimg.com/profile_images/1556751951588630529/DO0etv0d_400x400.jpg" alt="imoxto's Polywork Profile" height="30" width="30">
+  </a>
+  <a href="https://linktr.ee/md.rafid">
+    <img src="https://play-lh.googleusercontent.com/x3Kpw4L_-miSO6eumND8Az4ltZ2Ype6vSrJeJJW44Jugzn8KuKXaqsu_E_Zjx0Db5Hw=w240-h480-rw" alt="imoxto's Linktree Profile" height="30" width="30">
   </a>
 </p>
 
