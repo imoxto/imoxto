@@ -12,7 +12,7 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <h2 align="center">You can catch me at</h2>
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/17934277/ximouto">
+  <a href="https://stackoverflow.com/users/17934277/imoxto">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="imoxto's Stack Overflow Profile" height="30" width="30">
   </a>
   <a href="https://replit.com/@MOHAMMAD-RAFIDR">
