@@ -36,20 +36,19 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 </p>
 
 <p align="center">
-<a href="mailto:rafidhamid00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rafidhamid00@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Imouto%E3%81%99%E3%81%8D%235674-blue?style=flat&logo=discord"></a>
+<a href="mailto:rafidhamid01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rafidhamid00@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://twitter.com/Ryon099"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ryon099-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/imouto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-imouto-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/imoxto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-imoxto-blue?style=flat&logo=linkedin"></a>
 </p>
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/20e1aae5-1e16-45a5-acac-8c968a05c070.svg" alt="xImouto's wakatime badge"/>
+  <img src="https://wakatime.com/badge/user/20e1aae5-1e16-45a5-acac-8c968a05c070.svg" alt="my wakatime badge"/>
 </div>
 
 
 <h2 align="center">Current Knowledge</h2>
 
-**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. However, it doesn't mean I know everything about them, although I do have first hand experience and is comfortable using them.
+**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. However, it doesn't mean I know everything about them, although I do have first hand experience and am comfortable using them.
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
