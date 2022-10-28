@@ -126,13 +126,13 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/Reinforz/twitter-oauth2-blog/issues/3) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
-2. ❗️ Closed issue [#1](https://github.com/Reinforz/twitter-oauth2-blog/issues/1) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
-3. 🗣 Commented on [#1](https://github.com/Reinforz/twitter-oauth2-blog/issues/1) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
-4. 🎉 Merged PR [#2](https://github.com/Reinforz/twitter-oauth2-blog/pull/2) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
-5. 💪 Opened PR [#2](https://github.com/Reinforz/twitter-oauth2-blog/pull/2) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
-6. 🎉 Merged PR [#1](https://github.com/Reinforz/cordmand/pull/1) in [Reinforz/cordmand](https://github.com/Reinforz/cordmand)
-7. 💪 Opened PR [#1](https://github.com/Reinforz/cordmand/pull/1) in [Reinforz/cordmand](https://github.com/Reinforz/cordmand)
-8. 💪 Opened PR [#95](https://github.com/NLP-practitioners/reinforz/pull/95) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+2. 🗣 Commented on [#3](https://github.com/Reinforz/twitter-oauth2-blog/issues/3) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
+3. ❗️ Closed issue [#1](https://github.com/Reinforz/twitter-oauth2-blog/issues/1) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
+4. 🗣 Commented on [#1](https://github.com/Reinforz/twitter-oauth2-blog/issues/1) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
+5. 🎉 Merged PR [#2](https://github.com/Reinforz/twitter-oauth2-blog/pull/2) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
+6. 💪 Opened PR [#2](https://github.com/Reinforz/twitter-oauth2-blog/pull/2) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
+7. 🎉 Merged PR [#1](https://github.com/Reinforz/cordmand/pull/1) in [Reinforz/cordmand](https://github.com/Reinforz/cordmand)
+8. 💪 Opened PR [#1](https://github.com/Reinforz/cordmand/pull/1) in [Reinforz/cordmand](https://github.com/Reinforz/cordmand)
 9. 💪 Opened PR [#94](https://github.com/NLP-practitioners/reinforz/pull/94) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
 10. 💪 Opened PR [#90](https://github.com/NLP-practitioners/reinforz/pull/90) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
 <!--END_SECTION:activity-->
