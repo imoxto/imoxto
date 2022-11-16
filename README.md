@@ -36,7 +36,7 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 </p>
 
 <p align="center">
-<a href="mailto:rafidhamid01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rafidhamid00@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:x00rafid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-x00rafid@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://twitter.com/Ryon099"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ryon099-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/imoxto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-imoxto-blue?style=flat&logo=linkedin"></a>
 </p>
