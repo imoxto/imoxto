@@ -116,7 +116,7 @@ I seek to achieve a career as a successful full stack software developer. Apart 
      </tr>
      <tr>
        <th>Wakatime stats</th>
-       <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafid69&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="imoxto :: Wakatime Stats" /></td>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imoxto&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="imoxto :: Wakatime Stats" /></td>
      </tr>
 </table>
 
