@@ -102,11 +102,11 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <table align="center">
      <tr>
        <th>Profile stats  </th>
-       <td><img align="center" alt="imoxto :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imoxto&show_icons=true&theme=dark"> </td>
+       <td><img align="center" alt="imoxto :: Profile Stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=imoxto&show_icons=true&theme=dark"> </td>
      </tr>
       <tr>
        <th>Language Contribution</th>
-       <td><div align="center"> <img align="center" alt="imoxto :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoxto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </div></td>
+       <td><div align="center"> <img align="center" alt="imoxto :: Top Langs]" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=imoxto&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </div></td>
      </tr>
      <tr>
        <th>Stackoverflow Badge</th>
