@@ -125,14 +125,14 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
-2. 🎉 Merged PR [#1](https://github.com/imoxto/imodit/pull/1) in [imoxto/imodit](https://github.com/imoxto/imodit)
-3. 💪 Opened PR [#1](https://github.com/imoxto/imodit/pull/1) in [imoxto/imodit](https://github.com/imoxto/imodit)
-4. 🎉 Merged PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
-5. 💪 Opened PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
-6. 🎉 Merged PR [#30](https://github.com/Reinforz-Github/reinforz-landing/pull/30) in [Reinforz-Github/reinforz-landing](https://github.com/Reinforz-Github/reinforz-landing)
-7. 💪 Opened PR [#30](https://github.com/Reinforz-Github/reinforz-landing/pull/30) in [Reinforz-Github/reinforz-landing](https://github.com/Reinforz-Github/reinforz-landing)
-8. 🗣 Commented on [#3](https://github.com/Reinforz/twitter-oauth2-blog/issues/3) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
+1. 🗣 Commented on [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
+2. ❗️ Opened issue [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
+3. 🎉 Merged PR [#1](https://github.com/imoxto/imodit/pull/1) in [imoxto/imodit](https://github.com/imoxto/imodit)
+4. 💪 Opened PR [#1](https://github.com/imoxto/imodit/pull/1) in [imoxto/imodit](https://github.com/imoxto/imodit)
+5. 🎉 Merged PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
+6. 💪 Opened PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
+7. 🎉 Merged PR [#30](https://github.com/Reinforz-Github/reinforz-landing/pull/30) in [Reinforz-Github/reinforz-landing](https://github.com/Reinforz-Github/reinforz-landing)
+8. 💪 Opened PR [#30](https://github.com/Reinforz-Github/reinforz-landing/pull/30) in [Reinforz-Github/reinforz-landing](https://github.com/Reinforz-Github/reinforz-landing)
 9. ❗️ Closed issue [#1](https://github.com/Reinforz/twitter-oauth2-blog/issues/1) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
 10. 🗣 Commented on [#1](https://github.com/Reinforz/twitter-oauth2-blog/issues/1) in [Reinforz/twitter-oauth2-blog](https://github.com/Reinforz/twitter-oauth2-blog)
 <!--END_SECTION:activity-->
