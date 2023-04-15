@@ -125,11 +125,11 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/promptslab/PromptifyJs/pull/24) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
-2. 🗣 Commented on [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
-3. ❗️ Opened issue [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
-4. 🎉 Merged PR [#1](https://github.com/imoxto/imodit/pull/1) in [imoxto/imodit](https://github.com/imoxto/imodit)
-5. 💪 Opened PR [#1](https://github.com/imoxto/imodit/pull/1) in [imoxto/imodit](https://github.com/imoxto/imodit)
+1. 🎉 Merged PR [#1](https://github.com/imoxto/inent_v0/pull/1) in [imoxto/inent_v0](https://github.com/imoxto/inent_v0)
+2. 💪 Opened PR [#1](https://github.com/imoxto/inent_v0/pull/1) in [imoxto/inent_v0](https://github.com/imoxto/inent_v0)
+3. 💪 Opened PR [#24](https://github.com/promptslab/PromptifyJs/pull/24) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
+4. 🗣 Commented on [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
+5. ❗️ Opened issue [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
 6. 🎉 Merged PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
 7. 💪 Opened PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
 8. 🎉 Merged PR [#30](https://github.com/Reinforz-Github/reinforz-landing/pull/30) in [Reinforz-Github/reinforz-landing](https://github.com/Reinforz-Github/reinforz-landing)
