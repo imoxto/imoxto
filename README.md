@@ -125,10 +125,10 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/paradus-hex/clever-core-landing/pull/33) in [paradus-hex/clever-core-landing](https://github.com/paradus-hex/clever-core-landing)
-2. 🗣 Commented on [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566#issuecomment-1794678846) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
-3. ❗ Opened issue [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
-4. 🗣 Commented on [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
+1. 🎉 Merged PR [#33](https://github.com/paradus-hex/clever-core-landing/pull/33) in [paradus-hex/clever-core-landing](https://github.com/paradus-hex/clever-core-landing)
+2. 💪 Opened PR [#33](https://github.com/paradus-hex/clever-core-landing/pull/33) in [paradus-hex/clever-core-landing](https://github.com/paradus-hex/clever-core-landing)
+3. 🗣 Commented on [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566#issuecomment-1794678846) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
+4. ❗ Opened issue [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
 5. ❗ Opened issue [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
 6. 🎉 Merged PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
 7. 💪 Opened PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
