@@ -125,9 +125,9 @@ I seek to achieve a career as a successful full stack software developer. Apart 
 <summary>:zap: Recent Github Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
-2. 💪 Opened PR [#1](https://github.com/arionrefat/prototype/pull/1) in [arionrefat/prototype](https://github.com/arionrefat/prototype)
-3. 🎉 Merged PR [#86](https://github.com/Reinforz-Github/reinforz-landing/pull/86) in [Reinforz-Github/reinforz-landing](https://github.com/Reinforz-Github/reinforz-landing)
+1. 💪 Opened PR [#33](https://github.com/paradus-hex/clever-core-landing/pull/33) in [paradus-hex/clever-core-landing](https://github.com/paradus-hex/clever-core-landing)
+2. 🗣 Commented on [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566#issuecomment-1794678846) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
+3. ❗ Opened issue [#566](https://github.com/hyochan/react-native-audio-recorder-player/issues/566) in [hyochan/react-native-audio-recorder-player](https://github.com/hyochan/react-native-audio-recorder-player)
 4. 🗣 Commented on [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
 5. ❗ Opened issue [#7](https://github.com/promptslab/PromptifyJs/issues/7) in [promptslab/PromptifyJs](https://github.com/promptslab/PromptifyJs)
 6. 🎉 Merged PR [#1](https://github.com/imoxto/imofolio/pull/1) in [imoxto/imofolio](https://github.com/imoxto/imofolio)
