@@ -2,8 +2,6 @@
 
 <h2 align="center">About Me</h2>
 
-- 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz), [BUPD](https://github.com/Devorein/BUPD)
-- 🌱 I’m currently learning ... Docker, React, Svelte, Matplotlib, Seaborn, Pandas, Numpy
 - 👯 I’m looking to collaborate on ... Any ambitious Web project or NLP/ML Project/Library
 - 💬 Ask me about ... Algorithms, Web Development, Games and Anime
 
